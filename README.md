@@ -1,0 +1,1 @@
+Simple React/Redux setup - 31 May 2020
